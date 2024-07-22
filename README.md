@@ -1,4 +1,4 @@
-# ιδέα-IDEA-イデア
+# ιδέα-IDEA-イデア Project
 Shiaburafzk Rail Club Automatic Reservation System
 
 ## 切符・予約システムのイデアを探る。
