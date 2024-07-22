@@ -6,8 +6,10 @@ Mr.KSに敬意を敬意をこめて
 
 # 仕様どうする
 現状案
+
 ネイティブアプリ
 - Python(tkinter)とwebsocketでうまいことやる
+
 PWA
 - Next.jsでうまいことやる
 # 進捗・予定
